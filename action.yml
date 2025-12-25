@@ -4,9 +4,8 @@ author: "ErvraTech"
 
 inputs:
   github-token:
-    description: "GitHub token"
+    description: "GitHub token (use secrets.GITHUB_TOKEN)"
     required: true
-    default: ${{ github.token }}
   mode:
     description: "Run mode: analyze | refresh-baseline"
     required: false
@@ -30,4 +29,4 @@ runs:
 
 branding:
   icon: "activity"
-  color: "purple"
+  color: "orange"
