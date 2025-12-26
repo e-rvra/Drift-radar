@@ -178,14 +178,17 @@ in its own behavior as repositories evolve.
 
 License and Usage
 -----------------
-Drift Radar is provided for research, educational, and
-non-commercial use.
+Drift Radar is released as an open and permissive instrument.
 
-License: CC BY-NC
+License: MIT
 
-Commercial usage is intentionally restricted in order to preserve
-research integrity and avoid misuse in automated decision pipelines.
-Commercial use requires explicit permission.
+It may be used, modified, and redistributed freely, including
+for commercial purposes.
+
+This repository contains only the Drift Radar implementation.
+Conceptual frameworks and research models developed by ErvraTech
+(e.g. CIM) are governed by separate licenses and are not included
+in this repository.
 
 ------------------------------------------------------------
 
@@ -194,6 +197,7 @@ Positioning
 Drift Radar is developed by :contentReference[oaicite:0]{index=0}
 as part of a broader research effort on drift, stability, and
 long-term behavior in complex systems.
+
 
 ------------------------------------------------------------
 
