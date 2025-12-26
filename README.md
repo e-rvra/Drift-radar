@@ -1,3 +1,10 @@
+![Drift Radar](https://github.com/ervratech/drift-radar/actions/workflows/drift-radar.yml/badge.svg)
+![Version](https://img.shields.io/github/v/tag/ervratech/drift-radar?label=version)
+![Marketplace](https://img.shields.io/badge/GitHub%20Marketplace-Drift%20Radar-blue?logo=github)
+![License](https://img.shields.io/github/license/ervratech/drift-radar)
+![Node](https://img.shields.io/badge/node-20.x-green)
+
+
 # Drift Radar — GitHub Action
 
 **Detect risky changes before they hit production.**
