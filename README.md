@@ -83,7 +83,7 @@ jobs:
         uses: ervratech/drift-radar@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-
+```
 ---
 
 ## Contact
